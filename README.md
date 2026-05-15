@@ -13,3 +13,7 @@ Research for 2025-2026 ASRCC Brown Act, Constitution and By-laws violations
   - Renamed Sheet2 to Fall, Sheet3 to Winter, Sheet4 to Spring
   - Filled Week column in Summer, Fall, Winter, Spring with dates from 2025-2026 RCC Academic Calendar
     - Note CON/BYLAWS state ASRCC only needs to meet twice during the off terms of Summer and Winter
+  - Filled Branch column in Summer, Fall, Winter, Spring with Branch names
+    - Executive, Senate, Court
+  - Filled <Term> Agenda, <Term> Minutes with Y/N based on presence of documents in ASRCC (Public)
+    - A copy of ASRCC (Public) made on May 15, 2026 may be found here.
