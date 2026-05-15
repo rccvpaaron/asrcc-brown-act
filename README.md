@@ -1,2 +1,2 @@
-# asrcc-arown-act
+# asrcc-brown-act
 Research for 2025-2026 ASRCC Brown Act
