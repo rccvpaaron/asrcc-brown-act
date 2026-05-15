@@ -15,5 +15,5 @@ Research for 2025-2026 ASRCC Brown Act, Constitution and By-laws violations
     - Note CON/BYLAWS state ASRCC only needs to meet twice during the off terms of Summer and Winter
   - Filled Branch column in Summer, Fall, Winter, Spring with Branch names
     - Executive, Senate, Court
-  - Filled <Term> Agenda, <Term> Minutes with Y/N based on presence of documents in ASRCC (Public)
+  - Filled _Term_ Agenda, _Term_ Minutes in Summer, Fall, Winter, Spring with Y/N based on presence of documents in ASRCC (Public)
     - A copy of ASRCC (Public) made on May 15, 2026 may be found here.
