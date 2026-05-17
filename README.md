@@ -29,5 +29,119 @@ Research for 2025-2026 ASRCC Brown Act, Constitution and By-laws violations
   - Added calculation "=C3/B3" in E3 to show share of meetings with an agenda for Senate
   - Added calculation "=D2/B2" in E2 to show share of meetings with an agenda for Executive
   - Added caldulation "=D3/B3" in E3 to show share of meetings with an agenda for Senate
- 
-  ##
+
+## 04. Creating the Datawrapper Charts
+### Number of online agendas vs. regularly-scheduled meetings for ASRCC, 2025-2026
+1. Upload Data
+- Copied A1:D2 from the data table in Calculations sheet of Meeting Tracking - ASRCC 2025-2026
+- Pasted A1:D2 from the data table in Calculations sheet of Meeting Tracking - ASRCC 2025-2026 into Copy & Paste Data Table field in Upload Data section of a New Chart
+2. Check & Describe
+- No changes
+- "First row as label" box selected
+3. Visualize
+- Chart Type: Bullet Bars
+- Refine:
+  * Bars
+    + Outer bar: Meetings
+    + Inner bar: Agendas
+  * Labels
+    + Alignment: Left
+    + Replace country codes with flags: No
+    + Show color legend: Yes
+    + Stack labels: Unselected
+  * Horizontal axis
+    + Custom range: min - 33
+    + Number format: 1,000.00
+    + Custom grid lines: Empty
+    + Tick postiion: below
+    + Select column: Academic Year
+    + Grid: off
+  * Appearance
+    + Outer color: #18a1cd
+    + Inner color: #00dca6
+    + Thicker bars: Unselected
+    + Separating lines: Unselected
+  * Sorting & Grouping
+    + Sort bars: Unselected
+    + Reverse order: Unselected
+- Annotate:
+  * Title: Number of online agendas vs. regularly-scheduled meetings for ASRCC, 2025-2026
+  * Description: Empty
+  * Notes: Some regular meetings were cancelled, but those dates were never released to the public so the total number of meetings may be inaccurate. 
+  * Data Source: ASRCC website
+  * Link to data source: https://drive.google.com/drive/u/0/folders/1KTJiUQIWujfgkhZuU2dNz9TpmfrY_2DJ
+  * Byline: Aaron Friesen
+  * Alternative description for screen readers: A bullet bar chart comparing the number of agendas posted online by ASRCC versus the number of meetings scheduled. Agendas are low in comparison with number of meetings form both Executive and Senate.
+  * Highlight elements: Unselected
+  * Text annotations: None
+  * Highlight range: None
+- Layout:
+  *  Output locale: English (en-US)
+  *  Layout
+    + Theme: Datawrapper
+    + Automatic dark mode: Unselected
+    + Use the same colors in dark mode: Unselected
+  * Footer
+    + Data download: on
+    + Image download options: PNG
+    + Embed link: off
+    + Datawrapper attribution: on
+  * Share buttons
+    + Social media share buttons: off
+### Number of online minutes vs. regularly-scheduled meetings for ASRCC, 2025-2026
+1. Upload Data
+- Copied A1:D3 from the data table in Calculations sheet of Meeting Tracking - ASRCC 2025-2026
+- Pasted A1:D3 from the data table in Calculations sheet of Meeting Tracking - ASRCC 2025-2026 into Copy & Paste Data Table field in Upload Data section of a New Chart
+2. Check & Describe
+- No changes
+- "First row as label" box selected
+3. Visualize
+- Chart Type: Bullet Bars
+- Refine:
+  * Bars
+    + Outer bar: Meetings
+    + Inner bar: Minutes
+  * Labels
+    + Alignment: Left
+    + Replace country codes with flags: No
+    + Show color legend: Yes
+    + Stack labels: Unselected
+  * Horizontal axis
+    + Custom range: min - 33
+    + Number format: 1,000.00
+    + Custom grid lines: Empty
+    + Tick postiion: below
+    + Select column: Academic Year
+    + Grid: off
+  * Appearance
+    + Outer color: #18a1cd
+    + Inner color: #00dca6
+    + Thicker bars: Unselected
+    + Separating lines: Unselected
+  * Sorting & Grouping
+    + Sort bars: Unselected
+    + Reverse order: Unselected
+- Annotate:
+  * Title: Number of online minutes vs. regularly-scheduled meetings for ASRCC, 2025-2026
+  * Description: Empty
+  * Notes: Some regular meetings were cancelled, but those dates were never released to the public so the total number of meetings may be inaccurate. 
+  * Data Source: ASRCC website
+  * Link to data source: https://drive.google.com/drive/u/0/folders/1KTJiUQIWujfgkhZuU2dNz9TpmfrY_2DJ
+  * Byline: Aaron Friesen
+  * Alternative description for screen readers: A bullet bar chart comparing the number of minutes posted online by ASRCC versus the number of meetings scheduled. Agendas are low in comparison with number of meetings form both Executive and Senate.
+  * Highlight elements: Unselected
+  * Text annotations: None
+  * Highlight range: None
+- Layout:
+  *  Output locale: English (en-US)
+  *  Layout
+    + Theme: Datawrapper
+    + Automatic dark mode: Unselected
+    + Use the same colors in dark mode: Unselected
+  * Footer
+    + Data download: on
+    + Image download options: PNG
+    + Embed link: off
+    + Datawrapper attribution: on
+  * Share buttons
+    + Social media share buttons: off
