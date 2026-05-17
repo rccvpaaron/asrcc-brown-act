@@ -30,7 +30,7 @@ Research for 2025-2026 ASRCC Brown Act, Constitution and By-laws violations
   - Added calculation "=D2/B2" in E2 to show share of meetings with an agenda for Executive
   - Added caldulation "=D3/B3" in E3 to show share of meetings with an agenda for Senate
 
-## 04. Creating the Datawrapper Charts
+## 02. Creating the Datawrapper Charts
 ### Number of online agendas vs. regularly-scheduled meetings for ASRCC, 2025-2026
 1. Upload Data
 - Copied A1:D2 from the data table in Calculations sheet of Meeting Tracking - ASRCC 2025-2026
