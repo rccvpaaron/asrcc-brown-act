@@ -29,7 +29,7 @@ Research for 2025-2026 ASRCC Brown Act, Constitution and By-laws violations
   - Added formula "=C3/B3" in E3 to show share of meetings with an agenda for Senate
   - Added formula "=D2/B2" in F2 to show share of meetings with an agenda for Executive
   - Added formula "=D3/B3" in F3 to show share of meetings with an agenda for Senate
-- Recorded dates from [ASRCC email](https://github.com/rccvpaaron/asrcc-brown-act/blob/main/Meeting%20Email/Upcoming%20public%20meeting%20schedule.pdf) to Viewpoints about missed meeting dates
+- Recorded dates from [ASRCC email](https://github.com/rccvpaaron/asrcc-brown-act/blob/main/Meeting%20Email/Upcoming%20public%20meeting%20schedule.pdf) to Viewpoints about cancelled meeting dates
 - Added chart to Calculations
   - Added column Total Agendas starting at B6
   - Added column Agendas Missed starting at C6
