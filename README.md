@@ -25,11 +25,20 @@ Research for 2025-2026 ASRCC Brown Act, Constitution and By-laws violations
   - Added row counts for number of total meeting dates in Meetings column
   - Added row counts for number of total agendas in Agenda column
   - Added row counts for number of total minutes in Minutes column
-  - Added calculation "=C2/B2" in E2 to show share of meetings with an agenda for Executive
-  - Added calculation "=C3/B3" in E3 to show share of meetings with an agenda for Senate
-  - Added calculation "=D2/B2" in F2 to show share of meetings with an agenda for Executive
-  - Added caldulation "=D3/B3" in F3 to show share of meetings with an agenda for Senate
+  - Added formula "=C2/B2" in E2 to show share of meetings with an agenda for Executive
+  - Added formula "=C3/B3" in E3 to show share of meetings with an agenda for Senate
+  - Added formula "=D2/B2" in F2 to show share of meetings with an agenda for Executive
+  - Added formula "=D3/B3" in F3 to show share of meetings with an agenda for Senate
 - Recorded dates from [ASRCC email]([/Meeting Email/Upcoming public meeting schedule.pdf](https://github.com/rccvpaaron/asrcc-brown-act/blob/main/Meeting%20Email/Upcoming%20public%20meeting%20schedule.pdf)) to Viewpoints about missed meeting dates
+- Added chart to Calculations
+  - Added column Total Agendas starting at B6
+  - Added column Agendas Missed starting at C6
+  - Added row Executive starting at A7
+  - Added row Senate starting at A87
+  - Added formula "=C2" to B7
+  - Added formula "=C3" to B8
+  - Added formula "=SUM(B2-C2)" to C7
+  - Added formula "=SUM(B3-C3)" to C8
 
 ## 02. Creating the Datawrapper Charts
 ### Number of online agendas vs. regularly-scheduled meetings for ASRCC, 2025-2026
