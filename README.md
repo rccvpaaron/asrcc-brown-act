@@ -5,7 +5,7 @@ Research for 2025-2026 ASRCC Brown Act, Constitution and By-laws violations
 ### 01. Spreadsheet
 - Meeting Dates
   - Downloaded the .pdf for the 2025-2026 RCC Academic Calendar
-  - Created Google Sheet named Meeting Tracking - ASRCC 2025-2026
+  - Created Google Sheet named [Meeting Tracking - ASRCC 2025-2026](https://docs.google.com/spreadsheets/d/1mxfPxMiVDVNrb7syJd-Gruj0gEm93AisqaW0rDH2USk/edit?usp=sharing)
   - Created top row headings
     - Week, Branch, <Term> Agenda, <Term> Minutes
   - Renamed Sheet1 to Summer
