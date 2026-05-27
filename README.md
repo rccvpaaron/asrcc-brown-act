@@ -41,7 +41,7 @@ Research for 2025-2026 ASRCC Brown Act, Constitution and By-laws violations
   - Added formula "=SUM(B3-C3)" to C8
 
 ## 02. Creating the Datawrapper Charts
-### Number of online agendas vs. regularly-scheduled meetings for ASRCC, 2025-2026
+### Number of online agendas posted vs. total meetings held for ASRCC, 2025-2026
 1. Upload Data
 - Copied A1:D2 from the data table in Calculations sheet of Meeting Tracking - ASRCC 2025-2026
 - Pasted A1:D2 from the data table in Calculations sheet of Meeting Tracking - ASRCC 2025-2026 into Copy & Paste Data Table field in Upload Data section of a New Chart
@@ -98,7 +98,7 @@ Research for 2025-2026 ASRCC Brown Act, Constitution and By-laws violations
     + Datawrapper attribution: on
   * Share buttons
     + Social media share buttons: off
-### Number of online minutes vs. regularly-scheduled meetings for ASRCC, 2025-2026
+### Number of online minutes poasted vs. total meetings held for ASRCC, 2025-2026
 1. Upload Data
 - Copied A1:D3 from the data table in Calculations sheet of Meeting Tracking - ASRCC 2025-2026
 - Pasted A1:D3 from the data table in Calculations sheet of Meeting Tracking - ASRCC 2025-2026 into Copy & Paste Data Table field in Upload Data section of a New Chart
