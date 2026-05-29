@@ -11,12 +11,24 @@ Research for 2025-2026 ASRCC Brown Act, Constitution and By-laws violations
   - Renamed Sheet1 to Summer
   - Copied Summer three times
   - Renamed Sheet2 to Fall, Sheet3 to Winter, Sheet4 to Spring
-  - Filled Week column in Summer, Fall, Winter, Spring with dates from 2025-2026 RCC Academic Calendar
-    - Note CON/BYLAWS state ASRCC only needs to meet twice during the off terms of Summer and Winter
+    - Filled Week column in Summer, Fall, Winter, Spring with dates from 2025-2026 RCC Academic Calendar.
+      - ASRCC Constitution requires the exectuive and senate branches to meet weekly during Fall and Spring terms
+      - ASRCC Constitution requires the executive and senate branches to meet twice during both Summer and Winter terms
   - Filled Branch column in Summer, Fall, Winter, Spring with Branch names
     - Executive, Senate, Court
 - Filled Agenda, Minutes in Summer, Fall, Winter, Spring with Y/N based on presence of documents in ASRCC (Public)
   - A copy of ASRCC (Public) made on May 15, 2026 may be found here.
+    - Navigated to ASRCC's online public google drive repository for their documents
+    - Navigated to Agendas & Minutes folder
+      - Navigated to 2025-2026 folder
+        - Navigated to Interclub Council folder
+          - Folder empty, nothing to record
+      - Navigated to Executive folder
+        - Opened each file and recorded the type (agenda, minutes) for the date stated on the document
+      - Navigated to Senate folder
+        - Opened each file and recorded the type (agenda, minutes) for the date stated on the document
+    - Navigated to Agendas folder
+      - Opened each file and cross-referenced the type (agenda, minutes) and branch for duplicates of meetings previously recorded
 - Added Totals columns to count Ys in Agenda, Physical and Minutes columns of Summer, Fall, Winter, Spring Sheets
   - Changed row color to light blue
 - Added new Sheet named Calculations
