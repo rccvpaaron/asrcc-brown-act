@@ -57,7 +57,7 @@ Research for 2025-2026 ASRCC Brown Act, Constitution and By-laws violations
   - Added formula "=SUM(B3-C3)" to C8
 
 ## 02. Creating the Datawrapper Charts
-### Number of online agendas posted vs. total meetings held for ASRCC, 2025-2026
+### Number of online agendas posted vs. total meetings held for ASRCC, 2025-26
 1. Upload Data
 - Copied A1:D2 from the data table in Calculations sheet of Meeting Tracking - ASRCC 2025-2026
 - Pasted A1:D2 from the data table in Calculations sheet of Meeting Tracking - ASRCC 2025-2026 into Copy & Paste Data Table field in Upload Data section of a New Chart
@@ -68,8 +68,8 @@ Research for 2025-2026 ASRCC Brown Act, Constitution and By-laws violations
 - Chart Type: Bullet Bars
 - Refine:
   * Bars
-    + Outer bar: Meetings
-    + Inner bar: Agendas
+    + Outer bar: Meetings Held
+    + Inner bar: Online Agendas Posted
   * Labels
     + Alignment: Left
     + Replace country codes with flags: No
@@ -84,16 +84,16 @@ Research for 2025-2026 ASRCC Brown Act, Constitution and By-laws violations
     + Grid: off
   * Appearance
     + Outer color: #18a1cd
-    + Inner color: #00dca6
+    + Inner color: #ffe59c
     + Thicker bars: Unselected
     + Separating lines: Unselected
   * Sorting & Grouping
     + Sort bars: Unselected
     + Reverse order: Unselected
 - Annotate:
-  * Title: Number of online agendas vs. regularly-scheduled meetings for ASRCC, 2025-2026
+  * Title: Number of online agendas posted vs. total meetings held for ASRCC, 2025-26
   * Description: Empty
-  * Notes: Some regular meetings were cancelled, but those dates were never released to the public so the total number of meetings may be inaccurate. 
+  * Notes: In its investigation, Viewpoints has accounted for instances where notification was given of cancelled meetings, but not all cancellations were announced. The number of actual Meetings Held may be slightly smaller. 
   * Data Source: ASRCC website
   * Link to data source: https://drive.google.com/drive/u/0/folders/1KTJiUQIWujfgkhZuU2dNz9TpmfrY_2DJ
   * Byline: Aaron Friesen
@@ -114,7 +114,7 @@ Research for 2025-2026 ASRCC Brown Act, Constitution and By-laws violations
     + Datawrapper attribution: on
   * Share buttons
     + Social media share buttons: off
-### Number of online minutes poasted vs. total meetings held for ASRCC, 2025-2026
+### Number of online minutes posted vs. total meetings held for ASRCC, 2025-26
 1. Upload Data
 - Copied A1:D3 from the data table in Calculations sheet of Meeting Tracking - ASRCC 2025-2026
 - Pasted A1:D3 from the data table in Calculations sheet of Meeting Tracking - ASRCC 2025-2026 into Copy & Paste Data Table field in Upload Data section of a New Chart
@@ -141,16 +141,16 @@ Research for 2025-2026 ASRCC Brown Act, Constitution and By-laws violations
     + Grid: off
   * Appearance
     + Outer color: #18a1cd
-    + Inner color: #00dca6
+    + Inner color: #ffe59c
     + Thicker bars: Unselected
     + Separating lines: Unselected
   * Sorting & Grouping
     + Sort bars: Unselected
     + Reverse order: Unselected
 - Annotate:
-  * Title: Number of online minutes vs. regularly-scheduled meetings for ASRCC, 2025-2026
+  * Title: Number of online minutes posted vs. total meetings held for ASRCC, 2025-26
   * Description: Empty
-  * Notes: Some regular meetings were cancelled, but those dates were never released to the public so the total number of meetings may be inaccurate. 
+  * Notes: In its investigation, Viewpoints has accounted for instances where notification was given of cancelled meetings, but not all cancellations were announced. The number of actual  Meetings Held may be slightly smaller. 
   * Data Source: ASRCC website
   * Link to data source: https://drive.google.com/drive/u/0/folders/1KTJiUQIWujfgkhZuU2dNz9TpmfrY_2DJ
   * Byline: Aaron Friesen
