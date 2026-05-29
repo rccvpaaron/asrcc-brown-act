@@ -29,6 +29,10 @@ Research for 2025-2026 ASRCC Brown Act, Constitution and By-laws violations
         - Opened each file and recorded the type (agenda, minutes) for the date stated on the document
     - Navigated to Agendas folder
       - Opened each file and cross-referenced the type (agenda, minutes) and branch for duplicates of meetings previously recorded
+    - Navigated to ASRCC Budgets folder
+      - Opened each file to check for agendas and minutes, but none were found
+    - Navigated to Applications folder
+      - Opened each file to check for agendas and minutes, but none were found
 - Added Totals columns to count Ys in Agenda, Physical and Minutes columns of Summer, Fall, Winter, Spring Sheets
   - Changed row color to light blue
 - Added new Sheet named Calculations
