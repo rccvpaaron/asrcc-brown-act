@@ -1,16 +1,8 @@
 # asrcc-brown-act
 
+Viewpoints began an investigation during Riverside City College's Spring 2026 semester into a year-long pattern of Ralph M. Brown Act violations by the Associated Students of Riverside City College. 
 
-
-After Associated Students of Riverside City College's special election during the Fall 2025 semester at Riverside City College, Viewpoints ran into several obstacles while attempting to retrieve the election results. Through different social outlets, ASRCC stated it planned to announce the winners on two different dates. 
-
-Managing Editor Marissa Perez and News Reporter Alana Reyes attended the Oct. 7 senate and executive council meetings, writing several stories about an impeachment effort started by Riverside Community College District Student Trustee Gabriel Graves shortly after that meeting. 
-
-The impeachment was based on the executive council's inconsistent application of its fiduciary duties as defined by the ASRCC Constitution and its inconsistent application of the Ralph M. Brown Act's standards for publicly posting meeting agendas. 
-
-At the beginning of the Spring 2026 semester, Viewpoints ran into several obstacles attempting to get information on the various ASRCC senate, senate committee, executive council, executive committee and supreme court meetings, all of which are mandated by the ASRCC Constitution to be held weekly during Fall and Spring semesters. 
-
-The times, dates and locations of the meetings posted on the ASRCC website were sporadically inaccurate. Agendas were not being consistently posted 72 hours before meetings in a physical and online location as mandated by the Brown Act. 
+This is a repository of research and journalistic documents referenced in the article, which can be read (here)[https://viewpointsonline.org/2026/05/caught-in-the-act/]. 
 
 ## Agendas and Minutes tracking
 ### 01. Spreadsheet
