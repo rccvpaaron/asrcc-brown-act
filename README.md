@@ -2,7 +2,7 @@
 
 Viewpoints began an investigation during Riverside City College's Spring 2026 semester into a year-long pattern of Ralph M. Brown Act violations by the Associated Students of Riverside City College. 
 
-This is a repository of research and journalistic documents referenced in the article, which can be read (here)[https://viewpointsonline.org/2026/05/caught-in-the-act/]. 
+This is a repository of research and journalistic documents referenced in the article, which can be read [here](https://viewpointsonline.org/2026/05/caught-in-the-act/). 
 
 ## Agendas and Minutes tracking
 ### 01. Spreadsheet
