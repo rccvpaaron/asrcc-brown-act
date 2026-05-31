@@ -1,5 +1,10 @@
 # asrcc-brown-act
-Research for 2025-2026 ASRCC Brown Act, Constitution and By-laws violations
+
+
+
+After Associated Students of Riverside City College's special election during the Fall 2025 semester at Riverside City College, Viewpoints ran into several obstacles while attempting to retrieve the election results. Through different social outlets, ASRCC stated it planned to announce the winners on two different dates. 
+
+
 
 ## Agendas and Minutes tracking
 ### 01. Spreadsheet
